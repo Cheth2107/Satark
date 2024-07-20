@@ -1,4 +1,4 @@
-# Satark - STAY SAFE
+# SATARK - STAY SAFE
 # AI assisted distracted driver detection system
 
 Objective: To design and implement a system that uses AI algorithms to detect distracted driving behaviours in real-time.
